@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateSRTFromSAPTranscriptPDF", "CreateSRTFromSAPTranscriptPDF\CreateSRTFromSAPTranscriptPDF.csproj", "{C31ED535-1102-45E1-8D9C-C99776BF3C36}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstallCreateSRTFromSAPTranscriptPDF", "InstallCreateSRTFromSAPTranscriptPDF\InstallCreateSRTFromSAPTranscriptPDF.vdproj", "{18326130-5567-4B27-A3D3-1B486E4FB4CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31ED535-1102-45E1-8D9C-C99776BF3C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31ED535-1102-45E1-8D9C-C99776BF3C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31ED535-1102-45E1-8D9C-C99776BF3C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31ED535-1102-45E1-8D9C-C99776BF3C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18326130-5567-4B27-A3D3-1B486E4FB4CD}.Debug|Any CPU.ActiveCfg = Debug
+		{18326130-5567-4B27-A3D3-1B486E4FB4CD}.Debug|Any CPU.Build.0 = Debug
+		{18326130-5567-4B27-A3D3-1B486E4FB4CD}.Release|Any CPU.ActiveCfg = Release
+		{18326130-5567-4B27-A3D3-1B486E4FB4CD}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8036EC80-C827-4099-B0E1-220D5C28F4D6}
+	EndGlobalSection
+EndGlobal
