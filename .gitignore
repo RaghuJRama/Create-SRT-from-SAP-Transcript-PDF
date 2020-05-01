@@ -3,6 +3,7 @@ CreateSRTFromSAPTranscriptPDF/.vs/
 CreateSRTFromSAPTranscriptPDF/CreateSRTFromSAPTranscriptPDF/bin/
 CreateSRTFromSAPTranscriptPDF/CreateSRTFromSAPTranscriptPDF/obj/
 
-CreateSRTFromSAPTranscriptPDF/InstallCreateSRTFromSAPTranscriptPDF/
+CreateSRTFromSAPTranscriptPDF/InstallCreateSRTFromSAPTranscriptPDF/Debug/
+CreateSRTFromSAPTranscriptPDF/InstallCreateSRTFromSAPTranscriptPDF/Release/
 
 CreateSRTFromSAPTranscriptPDF/packages/
